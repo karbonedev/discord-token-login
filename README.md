@@ -68,3 +68,9 @@ Discord Token Login – A 100% free Tool, which allows you to connect to an indi
 - Token to the Login
 - Info of The Token
 
+
+# Join the community!
+
+Join us on our [Official Discord Server](https://discord.gg/sabo)!
+
+
