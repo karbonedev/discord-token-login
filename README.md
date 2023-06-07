@@ -44,5 +44,27 @@
 </p>
 
 
-![image](https://github.com/Karbone-DEV/discord-token-login/assets/68824394/df877baf-075c-40d7-8afe-609c3c565c7c)
+<p align="center">
+  <a href="#overview">Overview</a>
+  •
+  <a href="#installation">Installation</a>
+  •
+  <a href="#plugins">Plugins</a>
+  •
+  <a href="#join-the-community">Community</a>
+  •
+  <a href="#license">License</a>
+</p>
+
+
+
+# Overview
+
+Discord Token Login – A 100% free Tool, which allows you to connect to an individual's Token. This Tool was created by me, what will be used later is not my fault
+
+
+**Features:**
+
+- Token to the Login
+- Info of The Token
 
