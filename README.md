@@ -42,3 +42,7 @@
     <img src="https://d322cqt584bo4o.cloudfront.net/red-discordbot/localized.svg" alt="Localized with Crowdin">
   </a>
 </p>
+
+
+![image](https://github.com/Karbone-DEV/discord-token-login/assets/68824394/df877baf-075c-40d7-8afe-609c3c565c7c)
+
